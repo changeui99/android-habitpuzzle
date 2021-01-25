@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#fbcb93</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="fontColor">#fdad23</color>
+    <color name="iconColor">#ffd283</color>
+    <color name="nav_background">#ffeccb</color>
+
+    <color name="h1Color">#4f4f53</color>
+    <color name="h2Color">#151516</color>
+
+    <color name="colorsubTheme1">#fde6e5</color>
+    <color name="colorsubTheme2">#e0effd</color>
+    <color name="colorsubTheme3">#d8efee</color>
+    <color name="colorsubTheme4">#ffeccb</color>
+
+    <color name="colorTheme1">#fad2d0</color>
+    <color name="colorTheme2">#c6e3ff</color>
+    <color name="colorTheme3">#bce6e4</color>
+    <color name="colorTheme4">#fbcb93</color>
+
+    <color name="selectStroke">#78aeff</color>
+
+    <color name="notselectedHabitbg">#f9f9f9</color>
+    <color name="notselectedHabitStroke">#e1e1e1</color>
+
+    <color name="shadow">#f4f5f9</color>
+</resources>
